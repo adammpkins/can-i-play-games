@@ -1,4 +1,3 @@
-```text
 # Can I Play Games? 🚀
 
 Welcome to **Can I Play Games?** – a productivity and reward app designed to help kids earn game time by completing daily tasks! 🎮✅ This project is built with ReasonReact and styled using Tailwind CSS. The documentation below provides step-by-step instructions for setup, development, and deployment.
@@ -187,4 +186,4 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 <h2 id="final-notes">Final Notes 💡</h2>
 
 For further details on setup and customization, refer to inline comments in the source code. Enjoy building, and happy coding! 🎉
-```
+
